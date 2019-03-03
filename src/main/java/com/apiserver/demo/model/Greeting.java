@@ -1,4 +1,4 @@
-package com.apiserver.demo;
+package com.apiserver.demo.model;
 
 public class Greeting {
 
